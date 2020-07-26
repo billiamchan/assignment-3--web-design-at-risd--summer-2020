@@ -1,0 +1,11 @@
+html {
+  height: 1000px;
+}
+h1 {
+  font-size: 1.3em;
+  color: #EED;
+  background-color: #63D150;
+  width: 25vw;
+  height: 4vh;
+  box-shadow: 5px 5px 0px #DD4964;
+}
