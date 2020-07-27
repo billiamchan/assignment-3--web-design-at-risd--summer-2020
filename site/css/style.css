@@ -2,7 +2,7 @@ html {
   height: 1500px;
   }
 body {
-background: linear-gradient(to bottom right, #FC9817, #FFFFFF);
+background: linear-gradient(to top, #FC9817, #EEE);
 }
 h1 {
   font-size: 1.6em;
