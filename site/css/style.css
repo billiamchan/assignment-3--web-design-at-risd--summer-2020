@@ -2,22 +2,31 @@ html {
   height: 3500px;
   font-family: sans-serif;
   }
+
 body {
 background: linear-gradient(to top, #EC9817, #FDCB68);
 }
+
 h1 {
   font-size: 1.6em;
   color: #EEE;
   background-color: #FC9817;
   width: 40vw;
   height: 4vh;
-  box-shadow: 5px 5px 0px #3594E8;
-  margin: 0 50vw 5vh 50vw;
+  margin: 0 50vw 0vh 50vw;
   text-align:center;
 }
-main {
-  width: 100vw;
+#pow {
+  background-color: #8CBBE5;
+  color:white;
+  margin: 0 50vw 5vh 50vw;
+  width: 20vw;
+  position: relative;
+  top: 10px;
+  left: -50px;
+  text-align: left;
 }
+
 main>div{
   margin: 10vh 2vw 0 50vw;
   background-color: #8CBBE5;
@@ -41,12 +50,24 @@ main>h2 {
 }
 
 .wow {
+  width: 35vw;
+  background-color: #EEE;
+  margin: 50px 0 50px 850px;
+}
+.mow {
+  width: 60vw;
+  background-color: #EEE;
+  margin: 50px 0 50px 0 ;
+}
+
+/*.wow {
   width: 50vw;
   background-color: #EEE;
   margin: 50px 0 0 200px;
 }
 .mow {
-  width: 50vw;
+  width: 37.5vw;
   background-color: #EEE;
   margin: 50px 0 0 800px;
 }
+*/
