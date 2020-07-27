@@ -46,11 +46,11 @@ main>h2 {
   position: sticky;
   top: -1px;
   background-color: #FC9817;
-  font-size: 1.7em;
+  font-size: 1.63em;
   color: #EEE;
   width: 11vw;
-  margin-left: 7vw;
-  padding: 25px 40px;
+  margin-left: 7.5vw;
+  padding: 25px 36px;
   text-align: center;
 }
 .wow {
