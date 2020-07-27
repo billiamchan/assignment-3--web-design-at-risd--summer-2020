@@ -1,8 +1,8 @@
 html {
-  height: 1500px;
+  height: 3500px;
   }
 body {
-background: linear-gradient(to top, #FC9817, #EEE);
+background: linear-gradient(to top, #EC9817, #FDCB68);
 }
 h1 {
   font-size: 1.6em;
@@ -18,7 +18,7 @@ main {
   width: 100vw;
 }
 main>div{
-  margin: 10vh 0 0 50vw;
+  margin: 10vh 2vw 0 50vw;
   background-color: #8CBBE5;
   color: #EEE;
   padding: 20px;
@@ -37,4 +37,15 @@ main>h2 {
   margin-left: 5vw;
   padding: 30px 50px 30px 50px;
   text-align: center
+}
+
+.wow {
+  width: 50vw;
+  background-color: #EEE;
+  margin: 50px 0 0 200px;
+}
+.mow {
+  width: 50vw;
+  background-color: #EEE;
+  margin: 50px 0 0 800px;
 }
