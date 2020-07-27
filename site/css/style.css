@@ -25,7 +25,7 @@ main>div{
   padding: 20px;
   border-radius: 50px;
   font-size: 1.2em;
-
+  text-align: center;
 }
 main>h2 {
   position: sticky;
@@ -33,7 +33,7 @@ main>h2 {
   background-color: #FC9817;
   font-size: 1.8em;
   color: #EEE;
-  width: 10vw;
+  width: 11.8vw;
   text-transform: uppercase;
   margin-left: 5vw;
   padding: 30px 50px 30px 50px;
