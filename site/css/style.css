@@ -17,24 +17,24 @@ h1 {
 main {
   width: 100vw;
 }
-
-main>div>p:nth-child(odd){
-  text-align: left;
-  width: 50vw
-}
-
-main>p:nth-child(even){
-  text-align: right;
-}
-
-div>p {
-  margin: 10px 5px;
+main>div{
+  margin: 10vh 0 0 50vw;
   background-color: #8CBBE5;
   color: #EEE;
   padding: 20px;
   border-radius: 50px;
+  font-size: 1.2em;
+
 }
-div>h2 {
+main>h2 {
   position: sticky;
-  top: -1px
+  top: -1px;
+  background-color: #FC9817;
+  font-size: 1.8em;
+  color: #EEE;
+  width: 10vw;
+  text-transform: uppercase;
+  margin-left: 5vw;
+  padding: 30px 50px 30px 50px;
+  text-align: center
 }
