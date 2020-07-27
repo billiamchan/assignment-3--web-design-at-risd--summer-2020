@@ -1,5 +1,5 @@
 html {
-  height: 4300px;
+  height: 4250px;
   font-family: sans-serif;
   }
 
@@ -22,7 +22,7 @@ h1 {
   background-color: #8CBBE5;
   color:white;
   margin: 0 50vw 5vh 50vw;
-  width: 25vw;
+  width: 22vw;
   position: relative;
   top: 10px;
   left: -130px;
@@ -39,7 +39,6 @@ main>div{
   background-color: #8CBBE5;
   color: #EEE;
   padding: 20px;
-  border-radius: 50px;
   font-size: 1.2em;
   text-align: center;
 }
@@ -52,9 +51,8 @@ main>h2 {
   width: 11vw;
   margin-left: 7vw;
   padding: 25px 40px;
-  text-align: center
+  text-align: center;
 }
-
 .wow {
   width: 25vw;
   background-color: #EEE;
@@ -65,15 +63,3 @@ main>h2 {
   background-color: #EEE;
   margin: 36px 0 36px 0 ;
 }
-
-/*.wow {
-  width: 50vw;
-  background-color: #EEE;
-  margin: 50px 0 0 200px;
-}
-.mow {
-  width: 37.5vw;
-  background-color: #EEE;
-  margin: 50px 0 0 800px;
-}
-*/
