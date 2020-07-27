@@ -11,25 +11,30 @@ h1 {
   width: 40vw;
   height: 4vh;
   box-shadow: 5px 5px 0px #3594E8;
-  margin-bottom: 5vh;
+  margin: 0 50vw 5vh 50vw;
+  text-align:center;
 }
 main {
   width: 100vw;
 }
 
-main>div:nth-child(odd){
+main>div>p:nth-child(odd){
   text-align: left;
   width: 50vw
 }
 
-main>div:nth-child(even){
+main>p:nth-child(even){
   text-align: right;
 }
 
-div {
+div>p {
   margin: 10px 5px;
   background-color: #8CBBE5;
+  color: #EEE;
   padding: 20px;
   border-radius: 50px;
-
+}
+div>h2 {
+  position: sticky;
+  top: -1px
 }
