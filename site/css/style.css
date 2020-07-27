@@ -1,11 +1,15 @@
 html {
   height: 1000px;
+  }
+body {
+background: linear-gradient(to bottom right, #FC9817, #FFFFFF);
 }
 h1 {
-  font-size: 1.3em;
-  color: #EED;
-  background-color: #63D150;
-  width: 25vw;
+  font-size: 1.6em;
+  color: #EEE;
+  background-color: #FC9817;
+  width: 40vw;
   height: 4vh;
-  box-shadow: 5px 5px 0px #DD4964;
+  box-shadow: 5px 5px 0px #3594E8;
+  margin-bottom: 5vh;
 }
