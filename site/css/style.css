@@ -1,30 +1,37 @@
 html {
-  height: 3500px;
+  height: 4300px;
   font-family: sans-serif;
   }
 
 body {
-background: linear-gradient(to top, #EC9817, #FDCB68);
+background: linear-gradient(to top, #E58E00, #FDCB68);
 }
 
 h1 {
-  font-size: 1.6em;
+  font-size: 2em;
   color: #EEE;
   background-color: #FC9817;
-  width: 40vw;
-  height: 4vh;
-  margin: 0 50vw 0vh 50vw;
+  width: 50vw;
+  height: 6vh;
+  margin: 0 50vw 0vh 45vw;
+  padding: 8px;
   text-align:center;
+  text-transform: uppercase;
 }
 #pow {
   background-color: #8CBBE5;
   color:white;
   margin: 0 50vw 5vh 50vw;
-  width: 20vw;
+  width: 25vw;
   position: relative;
   top: 10px;
-  left: -50px;
+  left: -130px;
   text-align: left;
+  font-size: 1.3em;
+  text-transform: uppercase;
+  height: 4vh;
+  padding: 6px 6px 6px 10px;
+
 }
 
 main>div{
@@ -40,24 +47,23 @@ main>h2 {
   position: sticky;
   top: -1px;
   background-color: #FC9817;
-  font-size: 1.8em;
+  font-size: 1.7em;
   color: #EEE;
-  width: 11.8vw;
-  text-transform: uppercase;
-  margin-left: 5vw;
-  padding: 30px 50px 30px 50px;
+  width: 11vw;
+  margin-left: 7vw;
+  padding: 25px 40px;
   text-align: center
 }
 
 .wow {
   width: 25vw;
   background-color: #EEE;
-  margin: 50px 0 50px 960px;
+  margin: 36px 0 36px 960px;
 }
 .mow {
   width: 60vw;
   background-color: #EEE;
-  margin: 50px 0 50px 0 ;
+  margin: 36px 0 36px 0 ;
 }
 
 /*.wow {
